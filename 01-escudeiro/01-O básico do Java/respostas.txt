@@ -1,1 +1,40 @@
+01 - Vamos fazer uma viagem ao passado. O Java foi criado na década de 90. Vamos entender qual foi a motivação da criação da linguagem, seus principais conceitos e características e qual sua importância para o desenvolvimento de software. Faça, então, sua pesquisa e pontue seu entendimento sobre tudo isso.
+
 Resposta 01:
+
+A história começa em 1991, em San Hill Road empresa filiada a Sun (da qual hoje pertence a empresa Oracle), formado pelo time de engenheiros lliderados por Patrick Naugthon, Sun Fellow e James Gosling.
+
+O grupo estava iniciando um projeto denominado Projeto Green, que consistia na criação de tecnologias modernas de software para empresas eletrônicas de consumo. A ideia principal do Java era que os aparelhos eletrônicos se comunicassem entre si. Por exemplo, o caso de possuir um fogão, você poderia deixar assando sua comida e quando estivesse pronta iria enviar uma mensagem para o microondas ligar e após isso tocar o seu despertador, sendo algo do gênero.
+
+Com o tempo perceberam que não poderiam ficar presos aos sistemas operacionais, até porque os clientes não estavam interessados no tipo de processador que estavam utilizando, e sim na tecnologia. Portanto para o grupo criar uma versão do projeto para cada tipo de sistema era inviável, sendo assim, foi desenvolvido o sistema operacional GreenOS.
+
+A linguagem de programação chamada de Oak (carvalho) foi criada pelo chefe do projeto James Gosling. A explicação da origem do nome foi que enquanto pensava numa estrutura de diretórios para a linguagem, observava pela janela um carvalho. Mas esse nome já estava registrado, então o nome acabou surgindo na cafeteria local da cidade onde tomavam café. “Java”, pois era o nome da terra de origem do café, que os programadores da equipe apreciavam nessa cafeteria, por isso que a logo do Java é um café.
+
+Em 1993, apareceu uma oportunidade para o grupo Green. A empresa FirstPerson junto com a Time-Warner estava pedindo propostas de sistemas operacionais de decodificadores e tecnologias de vídeo sob demanda. Foi na época em que o NCSA apresentou o MOSAIC 1.0, o primeiro navegador gráfico para Web. Então a empresa FirstPerson apostou nos testes da TV da Time-Warner, mas esta empresa acabou escolhendo a tecnologia oferecida pela Silicon Graphics.
+
+Em 1995 a Sun viu uma oportunidade na Web, nessa época nas páginas não existia muita interatividade, apenas conteúdos estáticos eram exibidos. Então nesse ano a Sun anunciou o ambiente Java, sendo um absoluto sucesso, gerando uma aceitação aos browsers populares como o Netscape Navigator e padrões tridimensionais como o VRML (Virtual Reality Modeling Language - Linguagem de Modelagem para a Realidade Virtual).
+
+O Java foi o primeiro a utilizar decodificares de televisões interagindo em dispositivos portáteis e outros produtos eletrônicos de consumo, foi do mesmo jeito que foi iniciado em 1991, possuindo portabilidade para qualquer ambiente e do desenvolvimento para múltiplas plataformas, em ambientes de eletrônicos de consumo, desde então o Java vem liderando o mercado em termos de linguagem.
+
+Veja as principais características e vantagens da linguagem Java:
+
+Suporte à orientação a objetos;
+Portabilidade;
+Segurança;
+Linguagem Simples;
+Alta Performance;
+Dinamismo;
+Interpretada (o compilador pode executar os bytecodes do Java diretamente em qualquer máquina);
+Distribuído;
+Independente de plataforma;
+Tipada (detecta os tipos de variáveis quando declaradas);
+Dentro das características, o principal item é o fator da “Independência de plataforma”. Hoje a maioria das linguagens sofrem na transferência de plataforma quando o sistema desenvolvido tem que migrar para outra plataforma, pois quando compilado um programa a ação do compilador é transformar o arquivo-fonte em código de máquina.
+
+Por exemplo, se o programa desenvolvido for compilado em sistemas Macintosh, mais tarde terão problemas quando forem migrar para plataformas Intel, tendo que transferir o código fonte para a plataforma Intel e fazer a compilação novamente para produzir o código de máquina específico para este sistema. Muitas vezes o programador terá que alterar o código fonte antes de efetuar a compilação para a nova plataforma, esse motivo acontece por possuirem arquiteturas de processador diferenciadas.
+
+Processo da compilação de um programa desenvolvido por outras linguagens
+Figura 1: Processo da compilação de um programa desenvolvido por outras linguagens
+
+Já os programas em Java possuem uma característica fundamental que permite desenvolver sem se preocuparar com o tipo de sistema ou plataforma que precisa ser desenvolvida e preparada.
+
+A independência de plataforma já fala por si, pois possibilita o programa ser executado em diferentes plataformas e sistemas operacionais, através de um emulador conhecido como a Máquina Virtual Java ou JVM (Java Virtual Machine) que ajuda rodar os sistemas baseados em Java. Pode-se também se denominar como uma máquina virtual baseada em software que é executada dentro dos aparelhos eletrônicos onde irá ler e executar os bytecodes do Java.
