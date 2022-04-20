@@ -1,6 +1,6 @@
 01 - Vamos fazer uma viagem ao passado. O Java foi criado na década de 90. Vamos entender qual foi a motivação da criação da linguagem, seus principais conceitos e características e qual sua importância para o desenvolvimento de software. Faça, então, sua pesquisa e pontue seu entendimento sobre tudo isso.
 
-Resposta 01:
+Resposta 01:hehehe
 
 A história começa em 1991, em San Hill Road empresa filiada a Sun (da qual hoje pertence a empresa Oracle), formado pelo time de engenheiros lliderados por Patrick Naugthon, Sun Fellow e James Gosling.
 
