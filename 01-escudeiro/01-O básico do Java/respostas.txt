@@ -17,7 +17,7 @@ Em 1995 a Sun viu uma oportunidade na Web, nessa época nas páginas não existi
 O Java foi o primeiro a utilizar decodificares de televisões interagindo em dispositivos portáteis e outros produtos eletrônicos de consumo, foi do mesmo jeito que foi iniciado em 1991, possuindo portabilidade para qualquer ambiente e do desenvolvimento para múltiplas plataformas, em ambientes de eletrônicos de consumo, desde então o Java vem liderando o mercado em termos de linguagem.
 
 Veja as principais características e vantagens da linguagem Java:
-
+c
 Suporte à orientação a objetos;
 Portabilidade;
 Segurança;
